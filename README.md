@@ -1,2 +1,4 @@
-# Deitel-Java-Ejercicio-3.16
-Como Programar en Java 10 Edicion Paul Deitel. Ejercicio 3.16 (Calculadora de la frecuencia cardiaca esperada)
+# Deitel Java Ejercicio 3.16
+Como Programar en Java 10 Edicion Paul Deitel. 
+
+Ejercicio 3.16 (Calculadora de la frecuencia cardiaca esperada) Cree una clase llamada FrecuenciasCardiacas. Los atributos de la clase deben incluir el primer nombre de la persona, su apellido y fecha de nacimiento (la cual debe consistir de atributos independientes para el mes, día y año de nacimiento). Su clase debe tener un constructor que reciba estos datos como parámetros. Para cada atributo debe proveer métodos establecer y obtener. La clase también debe incluir un método que calcule y devuelva la edad de la persona (en años), un método que calcule y devuelva la frecuencia cardiaca máxima de esa persona, y otro método que calcule y devuelva la frecuencia cardiaca esperada de la persona. Escriba una aplicación de Java que pida la información de la persona, cree una instancia de un objeto de la clase FrecuenciasCardiacas e imprima la información a partir de ese objeto (incluyendo el primer nombre de la persona, su apellido y fecha de nacimiento), y que después calcule e imprima la edad de la persona en (años), frecuencia cardiaca máxima y rango de frecuencia cardiaca esperada
